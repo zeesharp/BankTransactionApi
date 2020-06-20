@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(BankTransactionAPI.Startup))]
+//[assembly: OwinStartup(typeof(BankTransactionAPI.Startup))]
 
 namespace BankTransactionAPI
 {
