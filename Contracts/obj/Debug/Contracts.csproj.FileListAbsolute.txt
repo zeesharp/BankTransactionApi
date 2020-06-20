@@ -1,0 +1,4 @@
+C:\zeeProjects\Task\PoliPayment\BankTransactionAPI\Contracts\bin\Debug\Contracts.dll
+C:\zeeProjects\Task\PoliPayment\BankTransactionAPI\Contracts\bin\Debug\Contracts.pdb
+C:\zeeProjects\Task\PoliPayment\BankTransactionAPI\Contracts\obj\Debug\Contracts.dll
+C:\zeeProjects\Task\PoliPayment\BankTransactionAPI\Contracts\obj\Debug\Contracts.pdb
