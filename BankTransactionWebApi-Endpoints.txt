@@ -1,0 +1,23 @@
+Get All Transaction
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/GetAllTransaction
+-----------------------------------------------------------------------
+Get Transaction Detail by Transaction Reference Number
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/GetTransactionDetailByTransactionId/7bac6514-70e5-4350-bc81-94120cb69722
+-----------------------------------------------------------------------
+Add new transaction
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/AddNewTransaction
+-----------------------------------------------------------------------
+Get Transaction Detail by Account No and Account BSB
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/GetTransactionDetailByAccountNoAndAccountBSB?accountNumber=ac4250&accountBsb=839e2fe
+-----------------------------------------------------------------------
+Delete Record By Transaction Reference Number
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/DeleteTransaction/42f4a9c0-66f8-4743-b88d-ce5f6bc5e0bc
+-----------------------------------------------------------------------
+Get Total Payment Amount by Transaction Date
+-----------------------------------------------------------------------
+http://localhost:49158/api/transaction/GetTotalAmountByTransactionDate?transactionDate=2020-06-09
